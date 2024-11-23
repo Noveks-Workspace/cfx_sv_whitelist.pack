@@ -1,0 +1,1 @@
+# cfx_sv_whitelist.pack
