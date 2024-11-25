@@ -1,6 +1,6 @@
 # 🌐 Noveks FiveM Discord Whitelist Script
 
-**Version:** 1.2.1
+**Version:** 1.2.2
 **Developer:** Novek  
 **Discord:** [Join Support Discord](https://discord.gg/8q8BnmgXq2)  
 **Tebex Store:** [Buy Here](https://noveks-workspace.tebex.io/package/6546483)  
