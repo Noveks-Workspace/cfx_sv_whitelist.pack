@@ -4,7 +4,7 @@ Here's the README specifically for the **Noveks Discord Whitelist Script**:
 
 # 🌐 Noveks FiveM Discord Whitelist Script
 
-**Version:** 1.1.0 
+**Version:** 1.2.1
 **Developer:** Novek  
 **Discord:** [Join Support Discord](https://discord.gg/8q8BnmgXq2)  
 **Tebex Store:** [Buy Here](https://noveks-workspace.tebex.io/package/6546483)  
